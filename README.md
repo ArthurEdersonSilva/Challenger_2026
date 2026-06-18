@@ -1,7 +1,7 @@
 <div align="center">
 
 [![Visão Computacional](https://img.shields.io/badge/VIS%C3%83O%20COMPUTACIONAL-%23150458.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/ArthurEdersonSilva?tab=repositories)
-[![Inteligência Artificial](https://img.shields.io/badge/INTELIG%C3%80NCIA%20ARTIFICIAL-%23ffdd00.svg?style=for-the-badge&logo=unrealengine&logoColor=black)](https://github.com/ArthurEdersonSilva?tab=repositories)
+[![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-purple?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/ArthurEdersonSilva?tab=repositories)
 
 # 🏭 FIAP x SPI Challenge 2026 - Proteção Ativa
 
